@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @abahprogramming
 - 👀 I’m interested in the world of coding
-- 🌱 I’m currently learning front end
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning FullStack Developer
+
 
 <!---
 abahprogramming/abahprogramming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
